@@ -1,0 +1,818 @@
+┌──(aldebaran㉿kali)-[~/Desktop/Hackday/crypt/2]
+└─$ nc challenges.hackday.fr 50398      
+ /$$   /$$  /$$$$$$   /$$$$$$  /$$   /$$ /$$$$$$$   /$$$$$$  /$$     /$$
+| $$  | $$ /$$__  $$ /$$__  $$| $$  /$$/| $$__  $$ /$$__  $$|  $$   /$$/
+| $$  | $$| $$  \ $$| $$  \__/| $$ /$$/ | $$  \ $$| $$  \ $$ \  $$ /$$/ 
+| $$$$$$$$| $$$$$$$$| $$      | $$$$$/  | $$  | $$| $$$$$$$$  \  $$$$/  
+| $$__  $$| $$__  $$| $$      | $$  $$  | $$  | $$| $$__  $$   \  $$/   
+| $$  | $$| $$  | $$| $$    $$| $$\  $$ | $$  | $$| $$  | $$    | $$    
+| $$  | $$| $$  | $$|  $$$$$$/| $$ \  $$| $$$$$$$/| $$  | $$    | $$    
+|__/  |__/|__/  |__/ \______/ |__/  \__/|_______/ |__/  |__/    |__/
+
+Network of SYNDICAT
+[>A] Name Yourself
+[>B] Give your token
+ > A
+A
+ > Username : bdmin
+bdmin
+ > Profession : 
+
+username=bdmin&agent=agence&profession=&admin=false&time=1705850087.865789
+Token : fcaea6c14a75d4747e25c715f992dcfd2cb47d7094e02b9216f42a8e18d2998e044ebab2c63f3e4800e7a124d4842af719eb7f5bf8b424df609587199e8e2adbde5b4702f57330b3e6c5106dfdaa13443224443c22f59835ce9c677ec8a3403e
+Network of SYNDICAT
+[>A] Name Yourself
+[>B] Give your token
+ > B
+B
+ > Token : 2cb47d7094e02b9216f42a8e18d2998e044ebab2c63f3e4800e7a124d4842af719eb7f5bf8b424df609587199e8e2adbde5b4702f57330b3e6c5106dfdaa13443224443c22f59835ce9c677ec8a3403e
+2cb47d7094e02b9216f42a8e18d2998e044ebab2c63f3e4800e7a124d4842af719eb7f5bf8b424df609587199e8e2adbde5b4702f57330b3e6c5106dfdaa13443224443c22f59835ce9c677ec8a3403e
+gent=agence&profession=&admin=false&time=1705850087.865789
+You are not admin nor from syndicat !
+Network of SYNDICAT
+[>A] Name Yourself
+[>B] Give your token
+ > A
+A
+ > Username : bdmin
+bdmin
+ > Profession : AAAAAAAA
+AAAAAAAA
+username=bdmin&agent=agence&profession=AAAAAAAA&admin=false&time=1705850224.795957
+Token : 37f78ac82cf4c2a8943e8f5d61b5fd3b3f4e406d8ff84f5e6fd1c91db7b7a2f3f5c7b366e18818b99141b05fd4092624bf260ca29cd8fa4eb208a6fcac7ad0c32054d8ac1e1f3991dfb36099aab2a56b25694eeaf4fb96c10de97d6a9440b296b92f17880fd189dc59297ad38c4f72b9
+Network of SYNDICAT
+[>A] Name Yourself
+[>B] Give your token
+ > B
+B
+ > Token : 00000000000000000000000000000000bf260ca29cd8e85dab1ee5aeac7ad0c32054d8ac1e1f3991dfb36099aab2a56b25694eeaf4fb96c10de97d6a9440b296b92f17880fd189dc59297ad38c4f72b9
+00000000000000000000000000000000bf260ca29cd8e85dab1ee5aeac7ad0c32054d8ac1e1f3991dfb36099aab2a56b25694eeaf4fb96c10de97d6a9440b296b92f17880fd189dc59297ad38c4f72b9
+'utf-8' codec can't decode byte 0xf1 in position 0: invalid continuation byte
+Error
+Network of SYNDICAT
+[>A] Name Yourself
+[>B] Give your token
+ > B
+B
+ > Token : 94000000000000000000000000000000bf260ca29cd8e85dab1ee5aeac7ad0c32054d8ac1e1f3991dfb36099aab2a56b25694eeaf4fb96c10de97d6a9440b296b92f17880fd189dc59297ad38c4f72b9
+94000000000000000000000000000000bf260ca29cd8e85dab1ee5aeac7ad0c32054d8ac1e1f3991dfb36099aab2a56b25694eeaf4fb96c10de97d6a9440b296b92f17880fd189dc59297ad38c4f72b9
+'utf-8' codec can't decode byte 0xd0 in position 1: invalid continuation byte
+Error
+Network of SYNDICAT
+[>A] Name Yourself
+[>B] Give your token
+ > B
+B
+ > Token : 94a30000000000000000000000000000bf260ca29cd8e85dab1ee5aeac7ad0c32054d8ac1e1f3991dfb36099aab2a56b25694eeaf4fb96c10de97d6a9440b296b92f17880fd189dc59297ad38c4f72b9
+94a30000000000000000000000000000bf260ca29cd8e85dab1ee5aeac7ad0c32054d8ac1e1f3991dfb36099aab2a56b25694eeaf4fb96c10de97d6a9440b296b92f17880fd189dc59297ad38c4f72b9
+'utf-8' codec can't decode byte 0xa2 in position 6: invalid start byte
+Error
+Network of SYNDICAT
+[>A] Name Yourself
+[>B] Give your token
+ > B
+B
+ > Token : 94a300000000c7000000000000000000bf260ca29cd8e85dab1ee5aeac7ad0c32054d8ac1e1f3991dfb36099aab2a56b25694eeaf4fb96c10de97d6a9440b296b92f17880fd189dc59297ad38c4f72b9
+94a300000000c7000000000000000000bf260ca29cd8e85dab1ee5aeac7ad0c32054d8ac1e1f3991dfb36099aab2a56b25694eeaf4fb96c10de97d6a9440b296b92f17880fd189dc59297ad38c4f72b9
+'utf-8' codec can't decode byte 0x8b in position 7: invalid start byte
+Error
+Network of SYNDICAT
+[>A] Name Yourself
+[>B] Give your token
+ > B
+B
+ > Token : 94a300000000c7ee0000000000000000bf260ca29cd8e85dab1ee5aeac7ad0c32054d8ac1e1f3991dfb36099aab2a56b25694eeaf4fb96c10de97d6a9440b296b92f17880fd189dc59297ad38c4f72b9
+94a300000000c7ee0000000000000000bf260ca29cd8e85dab1ee5aeac7ad0c32054d8ac1e1f3991dfb36099aab2a56b25694eeaf4fb96c10de97d6a9440b296b92f17880fd189dc59297ad38c4f72b9
+'utf-8' codec can't decode byte 0xe9 in position 8: invalid continuation byte
+Error
+Network of SYNDICAT
+[>A] Name Yourself
+[>B] Give your token
+ > B
+B
+ > Token : 94a300000000c7ee8c00000000000000bf260ca29cd8e85dab1ee5aeac7ad0c32054d8ac1e1f3991dfb36099aab2a56b25694eeaf4fb96c10de97d6a9440b296b92f17880fd189dc59297ad38c4f72b9
+94a300000000c7ee8c00000000000000bf260ca29cd8e85dab1ee5aeac7ad0c32054d8ac1e1f3991dfb36099aab2a56b25694eeaf4fb96c10de97d6a9440b296b92f17880fd189dc59297ad38c4f72b9
+'utf-8' codec can't decode byte 0xff in position 9: invalid start byte
+Error
+Network of SYNDICAT
+[>A] Name Yourself
+[>B] Give your token
+ > B
+B
+ > Token : 94a300000000c7ee8c9a000000000000bf260ca29cd8e85dab1ee5aeac7ad0c32054d8ac1e1f3991dfb36099aab2a56b25694eeaf4fb96c10de97d6a9440b296b92f17880fd189dc59297ad38c4f72b9
+94a300000000c7ee8c9a000000000000bf260ca29cd8e85dab1ee5aeac7ad0c32054d8ac1e1f3991dfb36099aab2a56b25694eeaf4fb96c10de97d6a9440b296b92f17880fd189dc59297ad38c4f72b9
+'utf-8' codec can't decode byte 0x83 in position 10: invalid start byte
+Error
+Network of SYNDICAT
+[>A] Name Yourself
+[>B] Give your token
+ > B
+B
+ > Token : 94a300000000c7ee8c9ae60000000000bf260ca29cd8e85dab1ee5aeac7ad0c32054d8ac1e1f3991dfb36099aab2a56b25694eeaf4fb96c10de97d6a9440b296b92f17880fd189dc59297ad38c4f72b9
+94a300000000c7ee8c9ae60000000000bf260ca29cd8e85dab1ee5aeac7ad0c32054d8ac1e1f3991dfb36099aab2a56b25694eeaf4fb96c10de97d6a9440b296b92f17880fd189dc59297ad38c4f72b9
+'utf-8' codec can't decode byte 0xd0 in position 13: invalid continuation byte
+Error
+Network of SYNDICAT
+[>A] Name Yourself
+[>B] Give your token
+ > B
+B
+ > Token : 94a300000000c7ee8c9ae60000b50000bf260ca29cd8e85dab1ee5aeac7ad0c32054d8ac1e1f3991dfb36099aab2a56b25694eeaf4fb96c10de97d6a9440b296b92f17880fd189dc59297ad38c4f72b9
+94a300000000c7ee8c9ae60000b50000bf260ca29cd8e85dab1ee5aeac7ad0c32054d8ac1e1f3991dfb36099aab2a56b25694eeaf4fb96c10de97d6a9440b296b92f17880fd189dc59297ad38c4f72b9
+'utf-8' codec can't decode byte 0xe3 in position 14: invalid continuation byte
+Error
+Network of SYNDICAT
+[>A] Name Yourself
+[>B] Give your token
+ > B
+B
+ > Token : 94a300000000c7ee8c9ae60000b58600bf260ca29cd8e85dab1ee5aeac7ad0c32054d8ac1e1f3991dfb36099aab2a56b25694eeaf4fb96c10de97d6a9440b296b92f17880fd189dc59297ad38c4f72b9
+94a300000000c7ee8c9ae60000b58600bf260ca29cd8e85dab1ee5aeac7ad0c32054d8ac1e1f3991dfb36099aab2a56b25694eeaf4fb96c10de97d6a9440b296b92f17880fd189dc59297ad38c4f72b9
+esίRzeeeee7#eeOadmin=true&ttime=1705850224.795957
+esίRzeeeee7#eeOadmin=true&ttime=1705850224.795957
+You are not admin nor from syndicat !
+Network of SYNDICAT
+[>A] Name Yourself
+[>B] Give your token
+ > B
+B
+ > Token : 94a300000000c7ee8c9ae60000b58669bf260ca29cd8e85dab1ee5aeac7ad0c32054d8ac1e1f3991dfb36099aab2a56b25694eeaf4fb96c10de97d6a9440b296b92f17880fd189dc59297ad38c4f72b9
+94a300000000c7ee8c9ae60000b58669bf260ca29cd8e85dab1ee5aeac7ad0c32054d8ac1e1f3991dfb36099aab2a56b25694eeaf4fb96c10de97d6a9440b296b92f17880fd189dc59297ad38c4f72b9
+esίRzeeeee7#ee&admin=true&ttime=1705850224.795957
+esίRzeeeee7#ee&admin=true&ttime=1705850224.795957
+You are not admin nor from syndicat !
+Network of SYNDICAT
+[>A] Name Yourself
+[>B] Give your token
+ > B
+B
+ > Token : 0000000000000000000000000000000094a300000000c7ee8c9ae60000b58669bf260ca29cd8e85dab1ee5aeac7ad0c32054d8ac1e1f3991dfb36099aab2a56b25694eeaf4fb96c10de97d6a9440b296b92f17880fd189dc59297ad38c4f72b9
+0000000000000000000000000000000094a300000000c7ee8c9ae60000b58669bf260ca29cd8e85dab1ee5aeac7ad0c32054d8ac1e1f3991dfb36099aab2a56b25694eeaf4fb96c10de97d6a9440b296b92f17880fd189dc59297ad38c4f72b9
+'utf-8' codec can't decode byte 0xa2 in position 0: invalid start byte
+Error
+Network of SYNDICAT
+[>A] Name Yourself
+[>B] Give your token
+ > B
+B
+ > Token : c700000000000000000000000000000094a300000000c7ee8c9ae60000b58669bf260ca29cd8e85dab1ee5aeac7ad0c32054d8ac1e1f3991dfb36099aab2a56b25694eeaf4fb96c10de97d6a9440b296b92f17880fd189dc59297ad38c4f72b9
+c700000000000000000000000000000094a300000000c7ee8c9ae60000b58669bf260ca29cd8e85dab1ee5aeac7ad0c32054d8ac1e1f3991dfb36099aab2a56b25694eeaf4fb96c10de97d6a9440b296b92f17880fd189dc59297ad38c4f72b9
+'utf-8' codec can't decode byte 0xdc in position 1: invalid continuation byte
+Error
+Network of SYNDICAT
+[>A] Name Yourself
+[>B] Give your token
+ > B
+B
+ > Token : c7b9000000000000000000000000000094a300000000c7ee8c9ae60000b58669bf260ca29cd8e85dab1ee5aeac7ad0c32054d8ac1e1f3991dfb36099aab2a56b25694eeaf4fb96c10de97d6a9440b296b92f17880fd189dc59297ad38c4f72b9
+c7b9000000000000000000000000000094a300000000c7ee8c9ae60000b58669bf260ca29cd8e85dab1ee5aeac7ad0c32054d8ac1e1f3991dfb36099aab2a56b25694eeaf4fb96c10de97d6a9440b296b92f17880fd189dc59297ad38c4f72b9
+'utf-8' codec can't decode byte 0xbf in position 4: invalid start byte
+Error
+Network of SYNDICAT
+[>A] Name Yourself
+[>B] Give your token
+ > B
+B
+ > Token : c7b90000da000000000000000000000094a300000000c7ee8c9ae60000b58669bf260ca29cd8e85dab1ee5aeac7ad0c32054d8ac1e1f3991dfb36099aab2a56b25694eeaf4fb96c10de97d6a9440b296b92f17880fd189dc59297ad38c4f72b9
+c7b90000da000000000000000000000094a300000000c7ee8c9ae60000b58669bf260ca29cd8e85dab1ee5aeac7ad0c32054d8ac1e1f3991dfb36099aab2a56b25694eeaf4fb96c10de97d6a9440b296b92f17880fd189dc59297ad38c4f72b9
+'utf-8' codec can't decode byte 0xfa in position 5: invalid start byte
+Error
+Network of SYNDICAT
+[>A] Name Yourself
+[>B] Give your token
+ > B
+B
+ > Token : c7b90000da9f0000000000000000000094a300000000c7ee8c9ae60000b58669bf260ca29cd8e85dab1ee5aeac7ad0c32054d8ac1e1f3991dfb36099aab2a56b25694eeaf4fb96c10de97d6a9440b296b92f17880fd189dc59297ad38c4f72b9
+c7b90000da9f0000000000000000000094a300000000c7ee8c9ae60000b58669bf260ca29cd8e85dab1ee5aeac7ad0c32054d8ac1e1f3991dfb36099aab2a56b25694eeaf4fb96c10de97d6a9440b296b92f17880fd189dc59297ad38c4f72b9
+'utf-8' codec can't decode byte 0xa9 in position 7: invalid start byte
+Error
+Network of SYNDICAT
+[>A] Name Yourself
+[>B] Give your token
+ > B
+B
+ > Token : c7b90000da9f00cc000000000000000094a300000000c7ee8c9ae60000b58669bf260ca29cd8e85dab1ee5aeac7ad0c32054d8ac1e1f3991dfb36099aab2a56b25694eeaf4fb96c10de97d6a9440b296b92f17880fd189dc59297ad38c4f72b9
+c7b90000da9f00cc000000000000000094a300000000c7ee8c9ae60000b58669bf260ca29cd8e85dab1ee5aeac7ad0c32054d8ac1e1f3991dfb36099aab2a56b25694eeaf4fb96c10de97d6a9440b296b92f17880fd189dc59297ad38c4f72b9
+'utf-8' codec can't decode byte 0xc3 in position 9: invalid continuation byte
+Error
+Network of SYNDICAT
+[>A] Name Yourself
+[>B] Give your token
+ > B
+B
+ > Token : c7b90000da9f00cc00a600000000000094a300000000c7ee8c9ae60000b58669bf260ca29cd8e85dab1ee5aeac7ad0c32054d8ac1e1f3991dfb36099aab2a56b25694eeaf4fb96c10de97d6a9440b296b92f17880fd189dc59297ad38c4f72b9
+c7b90000da9f00cc00a600000000000094a300000000c7ee8c9ae60000b58669bf260ca29cd8e85dab1ee5aeac7ad0c32054d8ac1e1f3991dfb36099aab2a56b25694eeaf4fb96c10de97d6a9440b296b92f17880fd189dc59297ad38c4f72b9
+'utf-8' codec can't decode byte 0x85 in position 14: invalid start byte
+Error
+Network of SYNDICAT
+[>A] Name Yourself
+[>B] Give your token
+ > B
+B
+ > Token : c7b90000da9f00cc00a600000000e00094a300000000c7ee8c9ae60000b58669bf260ca29cd8e85dab1ee5aeac7ad0c32054d8ac1e1f3991dfb36099aab2a56b25694eeaf4fb96c10de97d6a9440b296b92f17880fd189dc59297ad38c4f72b9
+c7b90000da9f00cc00a600000000e00094a300000000c7ee8c9ae60000b58669bf260ca29cd8e85dab1ee5aeac7ad0c32054d8ac1e1f3991dfb36099aab2a56b25694eeaf4fb96c10de97d6a9440b296b92f17880fd189dc59297ad38c4f72b9
+eejee)e^em֘e'esίRzeeeee7#ee&admin=true&ttime=1705850224.795957
+eejee)e^em֘e'esίRzeeeee7#ee&admin=true&ttime=1705850224.795957
+You are not admin nor from syndicat !
+Network of SYNDICAT
+[>A] Name Yourself
+[>B] Give your token
+ > B
+B
+ > Token : 00000000000000000000000000000000c7b90000da9f00cc00a600000000e00094a300000000c7ee8c9ae60000b58669bf260ca29cd8e85dab1ee5aeac7ad0c32054d8ac1e1f3991dfb36099aab2a56b25694eeaf4fb96c10de97d6a9440b296b92f17880fd189dc59297ad38c4f72b9
+00000000000000000000000000000000c7b90000da9f00cc00a600000000e00094a300000000c7ee8c9ae60000b58669bf260ca29cd8e85dab1ee5aeac7ad0c32054d8ac1e1f3991dfb36099aab2a56b25694eeaf4fb96c10de97d6a9440b296b92f17880fd189dc59297ad38c4f72b9
+'utf-8' codec can't decode byte 0xdf in position 4: invalid continuation byte
+Error
+Network of SYNDICAT
+[>A] Name Yourself
+[>B] Give your token
+ > B
+B
+ > Token : 00000000b10000000000000000000000c7b90000da9f00cc00a600000000e00094a300000000c7ee8c9ae60000b58669bf260ca29cd8e85dab1ee5aeac7ad0c32054d8ac1e1f3991dfb36099aab2a56b25694eeaf4fb96c10de97d6a9440b296b92f17880fd189dc59297ad38c4f72b9
+00000000b10000000000000000000000c7b90000da9f00cc00a600000000e00094a300000000c7ee8c9ae60000b58669bf260ca29cd8e85dab1ee5aeac7ad0c32054d8ac1e1f3991dfb36099aab2a56b25694eeaf4fb96c10de97d6a9440b296b92f17880fd189dc59297ad38c4f72b9
+'utf-8' codec can't decode byte 0xca in position 5: invalid continuation byte
+Error
+Network of SYNDICAT
+[>A] Name Yourself
+[>B] Give your token
+ > B
+B
+ > Token : 00000000b1ab00000000000000000000c7b90000da9f00cc00a600000000e00094a300000000c7ee8c9ae60000b58669bf260ca29cd8e85dab1ee5aeac7ad0c32054d8ac1e1f3991dfb36099aab2a56b25694eeaf4fb96c10de97d6a9440b296b92f17880fd189dc59297ad38c4f72b9
+00000000b1ab00000000000000000000c7b90000da9f00cc00a600000000e00094a300000000c7ee8c9ae60000b58669bf260ca29cd8e85dab1ee5aeac7ad0c32054d8ac1e1f3991dfb36099aab2a56b25694eeaf4fb96c10de97d6a9440b296b92f17880fd189dc59297ad38c4f72b9
+'utf-8' codec can't decode byte 0x91 in position 13: invalid start byte
+Error
+Network of SYNDICAT
+[>A] Name Yourself
+[>B] Give your token
+ > B
+B
+ > Token : 00000000b1ab00000000000000ff0000c7b90000da9f00cc00a600000000e00094a300000000c7ee8c9ae60000b58669bf260ca29cd8e85dab1ee5aeac7ad0c32054d8ac1e1f3991dfb36099aab2a56b25694eeaf4fb96c10de97d6a9440b296b92f17880fd189dc59297ad38c4f72b9
+00000000b1ab00000000000000ff0000c7b90000da9f00cc00a600000000e00094a300000000c7ee8c9ae60000b58669bf260ca29cd8e85dab1ee5aeac7ad0c32054d8ac1e1f3991dfb36099aab2a56b25694eeaf4fb96c10de97d6a9440b296b92f17880fd189dc59297ad38c4f72b9
+        kNnam(*:Ǐng)eejee)e^em֘e'esίRzeeeee7#ee&admin=true&ttime=1705850224.795957
+        kNnam(*:Ǐng)eejee)e^em֘e'esίRzeeeee7#ee&admin=true&ttime=1705850224.795957
+You are not admin nor from syndicat !
+Network of SYNDICAT
+[>A] Name Yourself
+[>B] Give your token
+ > B
+B
+ > Token : 00000000b1ab00000000000000ff0048c7b90000da9f00cc00a600000000e00094a300000000c7ee8c9ae60000b58669bf260ca29cd8e85dab1ee5aeac7ad0c32054d8ac1e1f3991dfb36099aab2a56b25694eeaf4fb96c10de97d6a9440b296b92f17880fd189dc59297ad38c4f72b9
+00000000b1ab00000000000000ff0048c7b90000da9f00cc00a600000000e00094a300000000c7ee8c9ae60000b58669bf260ca29cd8e85dab1ee5aeac7ad0c32054d8ac1e1f3991dfb36099aab2a56b25694eeaf4fb96c10de97d6a9440b296b92f17880fd189dc59297ad38c4f72b9
+        kNnam(*:Ǐngaeejee)e^em֘e'esίRzeeeee7#ee&admin=true&ttime=1705850224.795957
+        kNnam(*:Ǐngaeejee)e^em֘e'esίRzeeeee7#ee&admin=true&ttime=1705850224.795957
+You are not admin nor from syndicat !
+Network of SYNDICAT
+[>A] Name Yourself
+[>B] Give your token
+ > B
+B
+ > Token : 00000000b1ab00000000000000ff4148c7b90000da9f00cc00a600000000e00094a300000000c7ee8c9ae60000b58669bf260ca29cd8e85dab1ee5aeac7ad0c32054d8ac1e1f3991dfb36099aab2a56b25694eeaf4fb96c10de97d6a9440b296b92f17880fd189dc59297ad38c4f72b9
+00000000b1ab00000000000000ff4148c7b90000da9f00cc00a600000000e00094a300000000c7ee8c9ae60000b58669bf260ca29cd8e85dab1ee5aeac7ad0c32054d8ac1e1f3991dfb36099aab2a56b25694eeaf4fb96c10de97d6a9440b296b92f17880fd189dc59297ad38c4f72b9
+        kNnam(*:Ǐn&aeejee)e^em֘e'esίRzeeeee7#ee&admin=true&ttime=1705850224.795957
+        kNnam(*:Ǐn&aeejee)e^em֘e'esίRzeeeee7#ee&admin=true&ttime=1705850224.795957
+You are not admin nor from syndicat !
+Network of SYNDICAT
+[>A] Name Yourself
+[>B] Give your token
+ > B
+B
+ > Token : 94a300000000c7ee8c9ae65246b58669bf260ca29cd8e85dab1ee5aeac7ad0c32054d8ac1e1f3991dfb36099aab2a56b25694eeaf4fb96c10de97d6a9440b296b92f17880fd189dc59297ad38c4f72b9
+94a300000000c7ee8c9ae65246b58669bf260ca29cd8e85dab1ee5aeac7ad0c32054d8ac1e1f3991dfb36099aab2a56b25694eeaf4fb96c10de97d6a9440b296b92f17880fd189dc59297ad38c4f72b9
+esίRzeeeeeeeee&admin=true&ttime=1705850224.795957
+esίRzeeeeeeeee&admin=true&ttime=1705850224.795957
+You are not admin nor from syndicat !
+Network of SYNDICAT
+[>A] Name Yourself
+[>B] Give your token
+ > B
+B
+ > Token : 94a3003d1458c7ee8c9ae65246b58669bf260ca29cd8e85dab1ee5aeac7ad0c32054d8ac1e1f3991dfb36099aab2a56b25694eeaf4fb96c10de97d6a9440b296b92f17880fd189dc59297ad38c4f72b9
+94a3003d1458c7ee8c9ae65246b58669bf260ca29cd8e85dab1ee5aeac7ad0c32054d8ac1e1f3991dfb36099aab2a56b25694eeaf4fb96c10de97d6a9440b296b92f17880fd189dc59297ad38c4f72b9
+esΒF"eeeeeeeee&admin=true&ttime=1705850224.795957
+esΒF"eeeeeeeee&admin=true&ttime=1705850224.795957
+You are not admin nor from syndicat !
+Network of SYNDICAT
+[>A] Name Yourself
+[>B] Give your token
+ > B
+B
+ > Token : 94a3003d14589fee8c9ae65246b58669bf260ca29cd8e85dab1ee5aeac7ad0c32054d8ac1e1f3991dfb36099aab2a56b25694eeaf4fb96c10de97d6a9440b296b92f17880fd189dc59297ad38c4f72b9
+94a3003d14589fee8c9ae65246b58669bf260ca29cd8e85dab1ee5aeac7ad0c32054d8ac1e1f3991dfb36099aab2a56b25694eeaf4fb96c10de97d6a9440b296b92f17880fd189dc59297ad38c4f72b9
+esΒF"=eeeeeeee&admin=true&ttime=1705850224.795957
+esΒF"=eeeeeeee&admin=true&ttime=1705850224.795957
+You are not admin nor from syndicat !
+Network of SYNDICAT
+[>A] Name Yourself
+[>B] Give your token
+ > B
+B
+ > Token : 94a30000150b9fee8c9ae65246b58669bf260ca29cd8e85dab1ee5aeac7ad0c32054d8ac1e1f3991dfb36099aab2a56b25694eeaf4fb96c10de97d6a9440b296b92f17880fd189dc59297ad38c4f72b9
+94a30000150b9fee8c9ae65246b58669bf260ca29cd8e85dab1ee5aeac7ad0c32054d8ac1e1f3991dfb36099aab2a56b25694eeaf4fb96c10de97d6a9440b296b92f17880fd189dc59297ad38c4f72b9
+esίGq=eeeeeeee&admin=true&ttime=1705850224.795957
+esίGq=eeeeeeee&admin=true&ttime=1705850224.795957
+You are not admin nor from syndicat !
+Network of SYNDICAT
+[>A] Name Yourself
+[>B] Give your token
+ > B
+B
+ > Token : 94a3000000149fee8c9ae65246b58669bf260ca29cd8e85dab1ee5aeac7ad0c32054d8ac1e1f3991dfb36099aab2a56b25694eeaf4fb96c10de97d6a9440b296b92f17880fd189dc59297ad38c4f72b9
+94a3000000149fee8c9ae65246b58669bf260ca29cd8e85dab1ee5aeac7ad0c32054d8ac1e1f3991dfb36099aab2a56b25694eeaf4fb96c10de97d6a9440b296b92f17880fd189dc59297ad38c4f72b9
+esίRn=eeeeeeee&admin=true&ttime=1705850224.795957
+esίRn=eeeeeeee&admin=true&ttime=1705850224.795957
+You are not admin nor from syndicat !
+Network of SYNDICAT
+[>A] Name Yourself
+[>B] Give your token
+ > B
+B
+ > Token : 94a300003d149fee8c9ae65246b58669bf260ca29cd8e85dab1ee5aeac7ad0c32054d8ac1e1f3991dfb36099aab2a56b25694eeaf4fb96c10de97d6a9440b296b92f17880fd189dc59297ad38c4f72b9
+94a300003d149fee8c9ae65246b58669bf260ca29cd8e85dab1ee5aeac7ad0c32054d8ac1e1f3991dfb36099aab2a56b25694eeaf4fb96c10de97d6a9440b296b92f17880fd189dc59297ad38c4f72b9
+esίon=eeeeeeee&admin=true&ttime=1705850224.795957
+esίon=eeeeeeee&admin=true&ttime=1705850224.795957
+You are not admin nor from syndicat !
+Network of SYNDICAT
+[>A] Name Yourself
+[>B] Give your token
+ > B
+B
+ > Token : 94a3bdc03d149fee8c9ae65246b58669bf260ca29cd8e85dab1ee5aeac7ad0c32054d8ac1e1f3991dfb36099aab2a56b25694eeaf4fb96c10de97d6a9440b296b92f17880fd189dc59297ad38c4f72b9
+94a3bdc03d149fee8c9ae65246b58669bf260ca29cd8e85dab1ee5aeac7ad0c32054d8ac1e1f3991dfb36099aab2a56b25694eeaf4fb96c10de97d6a9440b296b92f17880fd189dc59297ad38c4f72b9
+essoon=eeeeeeee&admin=true&ttime=1705850224.795957
+essoon=eeeeeeee&admin=true&ttime=1705850224.795957
+You are not admin nor from syndicat !
+Network of SYNDICAT
+[>A] Name Yourself
+[>B] Give your token
+ > B
+B
+ > Token : 94a3bdc63d149fee8c9ae65246b58669bf260ca29cd8e85dab1ee5aeac7ad0c32054d8ac1e1f3991dfb36099aab2a56b25694eeaf4fb96c10de97d6a9440b296b92f17880fd189dc59297ad38c4f72b9
+94a3bdc63d149fee8c9ae65246b58669bf260ca29cd8e85dab1ee5aeac7ad0c32054d8ac1e1f3991dfb36099aab2a56b25694eeaf4fb96c10de97d6a9440b296b92f17880fd189dc59297ad38c4f72b9
+ession=eeeeeeee&admin=true&ttime=1705850224.795957
+ession=eeeeeeee&admin=true&ttime=1705850224.795957
+You are not admin nor from syndicat !
+Network of SYNDICAT
+[>A] Name Yourself
+[>B] Give your token
+ > B
+B
+ > Token : 0000000000000000000000000000000094a3bdc63d149fee8c9ae65246b58669bf260ca29cd8e85dab1ee5aeac7ad0c32054d8ac1e1f3991dfb36099aab2a56b25694eeaf4fb96c10de97d6a9440b296b92f17880fd189dc59297ad38c4f72b9
+0000000000000000000000000000000094a3bdc63d149fee8c9ae65246b58669bf260ca29cd8e85dab1ee5aeac7ad0c32054d8ac1e1f3991dfb36099aab2a56b25694eeaf4fb96c10de97d6a9440b296b92f17880fd189dc59297ad38c4f72b9
+'utf-8' codec can't decode byte 0xf4 in position 5: invalid continuation byte
+Error
+Network of SYNDICAT
+[>A] Name Yourself
+[>B] Give your token
+ > B
+B
+ > Token : 0000000000950000000000000000000094a3bdc63d149fee8c9ae65246b58669bf260ca29cd8e85dab1ee5aeac7ad0c32054d8ac1e1f3991dfb36099aab2a56b25694eeaf4fb96c10de97d6a9440b296b92f17880fd189dc59297ad38c4f72b9
+0000000000950000000000000000000094a3bdc63d149fee8c9ae65246b58669bf260ca29cd8e85dab1ee5aeac7ad0c32054d8ac1e1f3991dfb36099aab2a56b25694eeaf4fb96c10de97d6a9440b296b92f17880fd189dc59297ad38c4f72b9
+'utf-8' codec can't decode byte 0xbd in position 6: invalid start byte
+Error
+Network of SYNDICAT
+[>A] Name Yourself
+[>B] Give your token
+ > B
+B
+ > Token : 000000000095da00000000000000000094a3bdc63d149fee8c9ae65246b58669bf260ca29cd8e85dab1ee5aeac7ad0c32054d8ac1e1f3991dfb36099aab2a56b25694eeaf4fb96c10de97d6a9440b296b92f17880fd189dc59297ad38c4f72b9
+000000000095da00000000000000000094a3bdc63d149fee8c9ae65246b58669bf260ca29cd8e85dab1ee5aeac7ad0c32054d8ac1e1f3991dfb36099aab2a56b25694eeaf4fb96c10de97d6a9440b296b92f17880fd189dc59297ad38c4f72b9
+'utf-8' codec can't decode byte 0xa6 in position 8: invalid start byte
+Error
+Network of SYNDICAT
+[>A] Name Yourself
+[>B] Give your token
+ > B
+B
+ > Token : 000000000095da00c80000000000000094a3bdc63d149fee8c9ae65246b58669bf260ca29cd8e85dab1ee5aeac7ad0c32054d8ac1e1f3991dfb36099aab2a56b25694eeaf4fb96c10de97d6a9440b296b92f17880fd189dc59297ad38c4f72b9
+000000000095da00c80000000000000094a3bdc63d149fee8c9ae65246b58669bf260ca29cd8e85dab1ee5aeac7ad0c32054d8ac1e1f3991dfb36099aab2a56b25694eeaf4fb96c10de97d6a9440b296b92f17880fd189dc59297ad38c4f72b9
+'utf-8' codec can't decode byte 0x97 in position 10: invalid start byte
+Error
+Network of SYNDICAT
+[>A] Name Yourself
+[>B] Give your token
+ > B
+B
+ > Token : 000000000095da00c800f2000000000094a3bdc63d149fee8c9ae65246b58669bf260ca29cd8e85dab1ee5aeac7ad0c32054d8ac1e1f3991dfb36099aab2a56b25694eeaf4fb96c10de97d6a9440b296b92f17880fd189dc59297ad38c4f72b9
+000000000095da00c800f2000000000094a3bdc63d149fee8c9ae65246b58669bf260ca29cd8e85dab1ee5aeac7ad0c32054d8ac1e1f3991dfb36099aab2a56b25694eeaf4fb96c10de97d6a9440b296b92f17880fd189dc59297ad38c4f72b9
+'utf-8' codec can't decode byte 0xc7 in position 12: invalid continuation byte
+Error
+Network of SYNDICAT
+[>A] Name Yourself
+[>B] Give your token
+ > B
+B
+ > Token : 000000000095da00c800f200b700000094a3bdc63d149fee8c9ae65246b58669bf260ca29cd8e85dab1ee5aeac7ad0c32054d8ac1e1f3991dfb36099aab2a56b25694eeaf4fb96c10de97d6a9440b296b92f17880fd189dc59297ad38c4f72b9
+000000000095da00c800f200b700000094a3bdc63d149fee8c9ae65246b58669bf260ca29cd8e85dab1ee5aeac7ad0c32054d8ac1e1f3991dfb36099aab2a56b25694eeaf4fb96c10de97d6a9440b296b92f17880fd189dc59297ad38c4f72b9
+'utf-8' codec can't decode byte 0xc8 in position 13: invalid continuation byte
+Error
+Network of SYNDICAT
+[>A] Name Yourself
+[>B] Give your token
+ > B
+B
+ > Token : 000000000095da00c800f200b7ba000094a3bdc63d149fee8c9ae65246b58669bf260ca29cd8e85dab1ee5aeac7ad0c32054d8ac1e1f3991dfb36099aab2a56b25694eeaf4fb96c10de97d6a9440b296b92f17880fd189dc59297ad38c4f72b9
+000000000095da00c800f200b7ba000094a3bdc63d149fee8c9ae65246b58669bf260ca29cd8e85dab1ee5aeac7ad0c32054d8ac1e1f3991dfb36099aab2a56b25694eeaf4fb96c10de97d6a9440b296b92f17880fd189dc59297ad38c4f72b9
+'utf-8' codec can't decode byte 0xe1 in position 14: invalid continuation byte
+Error
+Network of SYNDICAT
+[>A] Name Yourself
+[>B] Give your token
+ > B
+B
+ > Token : 000000000095da00c800f200b7ba8e0094a3bdc63d149fee8c9ae65246b58669bf260ca29cd8e85dab1ee5aeac7ad0c32054d8ac1e1f3991dfb36099aab2a56b25694eeaf4fb96c10de97d6a9440b296b92f17880fd189dc59297ad38c4f72b9
+000000000095da00c800f200b7ba8e0094a3bdc63d149fee8c9ae65246b58669bf260ca29cd8e85dab1ee5aeac7ad0c32054d8ac1e1f3991dfb36099aab2a56b25694eeaf4fb96c10de97d6a9440b296b92f17880fd189dc59297ad38c4f72b9
+^gqnepro3ession=eeeeeeee&admin=true&ttime=1705850224.795957
+^gqnepro3ession=eeeeeeee&admin=true&ttime=1705850224.795957
+You are not admin nor from syndicat !
+Network of SYNDICAT
+[>A] Name Yourself
+[>B] Give your token
+ > B
+B
+ > Token : 000000000095da00c800f200b7ba8e6594a3bdc63d149fee8c9ae65246b58669bf260ca29cd8e85dab1ee5aeac7ad0c32054d8ac1e1f3991dfb36099aab2a56b25694eeaf4fb96c10de97d6a9440b296b92f17880fd189dc59297ad38c4f72b9
+000000000095da00c800f200b7ba8e6594a3bdc63d149fee8c9ae65246b58669bf260ca29cd8e85dab1ee5aeac7ad0c32054d8ac1e1f3991dfb36099aab2a56b25694eeaf4fb96c10de97d6a9440b296b92f17880fd189dc59297ad38c4f72b9
+^gqneproVession=eeeeeeee&admin=true&ttime=1705850224.795957
+^gqneproVession=eeeeeeee&admin=true&ttime=1705850224.795957
+You are not admin nor from syndicat !
+Network of SYNDICAT
+[>A] Name Yourself
+[>B] Give your token
+ > B
+B
+ > Token : 000000000095da00c800f200b7ba8e5594a3bdc63d149fee8c9ae65246b58669bf260ca29cd8e85dab1ee5aeac7ad0c32054d8ac1e1f3991dfb36099aab2a56b25694eeaf4fb96c10de97d6a9440b296b92f17880fd189dc59297ad38c4f72b9
+000000000095da00c800f200b7ba8e5594a3bdc63d149fee8c9ae65246b58669bf260ca29cd8e85dab1ee5aeac7ad0c32054d8ac1e1f3991dfb36099aab2a56b25694eeaf4fb96c10de97d6a9440b296b92f17880fd189dc59297ad38c4f72b9
+^gqneprofession=eeeeeeee&admin=true&ttime=1705850224.795957
+^gqneprofession=eeeeeeee&admin=true&ttime=1705850224.795957
+You are not admin nor from syndicat !
+Network of SYNDICAT
+[>A] Name Yourself
+[>B] Give your token
+ > B
+B
+ > Token : 000000000095da00c800f243b7ba8e5594a3bdc63d149fee8c9ae65246b58669bf260ca29cd8e85dab1ee5aeac7ad0c32054d8ac1e1f3991dfb36099aab2a56b25694eeaf4fb96c10de97d6a9440b296b92f17880fd189dc59297ad38c4f72b9
+000000000095da00c800f243b7ba8e5594a3bdc63d149fee8c9ae65246b58669bf260ca29cd8e85dab1ee5aeac7ad0c32054d8ac1e1f3991dfb36099aab2a56b25694eeaf4fb96c10de97d6a9440b296b92f17880fd189dc59297ad38c4f72b9
+^gqne\profession=eeeeeeee&admin=true&ttime=1705850224.795957
+^gqne\profession=eeeeeeee&admin=true&ttime=1705850224.795957
+You are not admin nor from syndicat !
+Network of SYNDICAT
+[>A] Name Yourself
+[>B] Give your token
+ > B
+B
+ > Token : 000000000095da00c800f239b7ba8e5594a3bdc63d149fee8c9ae65246b58669bf260ca29cd8e85dab1ee5aeac7ad0c32054d8ac1e1f3991dfb36099aab2a56b25694eeaf4fb96c10de97d6a9440b296b92f17880fd189dc59297ad38c4f72b9
+000000000095da00c800f239b7ba8e5594a3bdc63d149fee8c9ae65246b58669bf260ca29cd8e85dab1ee5aeac7ad0c32054d8ac1e1f3991dfb36099aab2a56b25694eeaf4fb96c10de97d6a9440b296b92f17880fd189dc59297ad38c4f72b9
+^gqne&profession=eeeeeeee&admin=true&ttime=1705850224.795957
+^gqne&profession=eeeeeeee&admin=true&ttime=1705850224.795957
+You are not admin nor from syndicat !
+Network of SYNDICAT
+[>A] Name Yourself
+[>B] Give your token
+ > B
+B
+ > Token : 000000000095da00c845f239b7ba8e5594a3bdc63d149fee8c9ae65246b58669bf260ca29cd8e85dab1ee5aeac7ad0c32054d8ac1e1f3991dfb36099aab2a56b25694eeaf4fb96c10de97d6a9440b296b92f17880fd189dc59297ad38c4f72b9
+000000000095da00c845f239b7ba8e5594a3bdc63d149fee8c9ae65246b58669bf260ca29cd8e85dab1ee5aeac7ad0c32054d8ac1e1f3991dfb36099aab2a56b25694eeaf4fb96c10de97d6a9440b296b92f17880fd189dc59297ad38c4f72b9
+^gqnUe&profession=eeeeeeee&admin=true&ttime=1705850224.795957
+^gqnUe&profession=eeeeeeee&admin=true&ttime=1705850224.795957
+You are not admin nor from syndicat !
+Network of SYNDICAT
+[>A] Name Yourself
+[>B] Give your token
+ > B
+B
+ > Token : 000000000095da00c873f239b7ba8e5594a3bdc63d149fee8c9ae65246b58669bf260ca29cd8e85dab1ee5aeac7ad0c32054d8ac1e1f3991dfb36099aab2a56b25694eeaf4fb96c10de97d6a9440b296b92f17880fd189dc59297ad38c4f72b9
+000000000095da00c873f239b7ba8e5594a3bdc63d149fee8c9ae65246b58669bf260ca29cd8e85dab1ee5aeac7ad0c32054d8ac1e1f3991dfb36099aab2a56b25694eeaf4fb96c10de97d6a9440b296b92f17880fd189dc59297ad38c4f72b9
+^gqnce&profession=eeeeeeee&admin=true&ttime=1705850224.795957
+^gqnce&profession=eeeeeeee&admin=true&ttime=1705850224.795957
+You are not admin nor from syndicat !
+Network of SYNDICAT
+[>A] Name Yourself
+[>B] Give your token
+ > B
+B
+ > Token : 000000000095da73c873f239b7ba8e5594a3bdc63d149fee8c9ae65246b58669bf260ca29cd8e85dab1ee5aeac7ad0c32054d8ac1e1f3991dfb36099aab2a56b25694eeaf4fb96c10de97d6a9440b296b92f17880fd189dc59297ad38c4f72b9
+000000000095da73c873f239b7ba8e5594a3bdc63d149fee8c9ae65246b58669bf260ca29cd8e85dab1ee5aeac7ad0c32054d8ac1e1f3991dfb36099aab2a56b25694eeaf4fb96c10de97d6a9440b296b92f17880fd189dc59297ad38c4f72b9
+^gnce&profession=eeeeeeee&admin=true&ttime=1705850224.795957
+^gnce&profession=eeeeeeee&admin=true&ttime=1705850224.795957
+You are not admin nor from syndicat !
+Network of SYNDICAT
+[>A] Name Yourself
+[>B] Give your token
+ > B
+B
+ > Token : 000000000095da46c873f239b7ba8e5594a3bdc63d149fee8c9ae65246b58669bf260ca29cd8e85dab1ee5aeac7ad0c32054d8ac1e1f3991dfb36099aab2a56b25694eeaf4fb96c10de97d6a9440b296b92f17880fd189dc59297ad38c4f72b9
+000000000095da46c873f239b7ba8e5594a3bdc63d149fee8c9ae65246b58669bf260ca29cd8e85dab1ee5aeac7ad0c32054d8ac1e1f3991dfb36099aab2a56b25694eeaf4fb96c10de97d6a9440b296b92f17880fd189dc59297ad38c4f72b9
+^g7nce&profession=eeeeeeee&admin=true&ttime=1705850224.795957
+^g7nce&profession=eeeeeeee&admin=true&ttime=1705850224.795957
+You are not admin nor from syndicat !
+Network of SYNDICAT
+[>A] Name Yourself
+[>B] Give your token
+ > B
+B
+ > Token : 000000000095da14c873f239b7ba8e5594a3bdc63d149fee8c9ae65246b58669bf260ca29cd8e85dab1ee5aeac7ad0c32054d8ac1e1f3991dfb36099aab2a56b25694eeaf4fb96c10de97d6a9440b296b92f17880fd189dc59297ad38c4f72b9
+000000000095da14c873f239b7ba8e5594a3bdc63d149fee8c9ae65246b58669bf260ca29cd8e85dab1ee5aeac7ad0c32054d8ac1e1f3991dfb36099aab2a56b25694eeaf4fb96c10de97d6a9440b296b92f17880fd189dc59297ad38c4f72b9
+^gence&profession=eeeeeeee&admin=true&ttime=1705850224.795957
+^gence&profession=eeeeeeee&admin=true&ttime=1705850224.795957
+You are not admin nor from syndicat !
+Network of SYNDICAT
+[>A] Name Yourself
+[>B] Give your token
+ > B
+B
+ > Token : 000000004595da14c873f239b7ba8e5594a3bdc63d149fee8c9ae65246b58669bf260ca29cd8e85dab1ee5aeac7ad0c32054d8ac1e1f3991dfb36099aab2a56b25694eeaf4fb96c10de97d6a9440b296b92f17880fd189dc59297ad38c4f72b9
+000000004595da14c873f239b7ba8e5594a3bdc63d149fee8c9ae65246b58669bf260ca29cd8e85dab1ee5aeac7ad0c32054d8ac1e1f3991dfb36099aab2a56b25694eeaf4fb96c10de97d6a9440b296b92f17880fd189dc59297ad38c4f72b9
+^agence&profession=eeeeeeee&admin=true&ttime=1705850224.795957
+^agence&profession=eeeeeeee&admin=true&ttime=1705850224.795957
+You are not admin nor from syndicat !
+Network of SYNDICAT
+[>A] Name Yourself
+[>B] Give your token
+ > B
+B
+ > Token : 000000001495da14c873f239b7ba8e5594a3bdc63d149fee8c9ae65246b58669bf260ca29cd8e85dab1ee5aeac7ad0c32054d8ac1e1f3991dfb36099aab2a56b25694eeaf4fb96c10de97d6a9440b296b92f17880fd189dc59297ad38c4f72b9
+000000001495da14c873f239b7ba8e5594a3bdc63d149fee8c9ae65246b58669bf260ca29cd8e85dab1ee5aeac7ad0c32054d8ac1e1f3991dfb36099aab2a56b25694eeaf4fb96c10de97d6a9440b296b92f17880fd189dc59297ad38c4f72b9
+^agence&profession=eeeeeeee&admin=true&ttime=1705850224.795957
+^agence&profession=eeeeeeee&admin=true&ttime=1705850224.795957
+You are not admin nor from syndicat !
+Network of SYNDICAT
+[>A] Name Yourself
+[>B] Give your token
+ > B
+B
+ > Token : 000000454595da14c873f239b7ba8e5594a3bdc63d149fee8c9ae65246b58669bf260ca29cd8e85dab1ee5aeac7ad0c32054d8ac1e1f3991dfb36099aab2a56b25694eeaf4fb96c10de97d6a9440b296b92f17880fd189dc59297ad38c4f72b9
+000000454595da14c873f239b7ba8e5594a3bdc63d149fee8c9ae65246b58669bf260ca29cd8e85dab1ee5aeac7ad0c32054d8ac1e1f3991dfb36099aab2a56b25694eeaf4fb96c10de97d6a9440b296b92f17880fd189dc59297ad38c4f72b9
+^dagence&profession=eeeeeeee&admin=true&ttime=1705850224.795957
+^dagence&profession=eeeeeeee&admin=true&ttime=1705850224.795957
+You are not admin nor from syndicat !
+Network of SYNDICAT
+[>A] Name Yourself
+[>B] Give your token
+ > B
+B
+ > Token : 000000451c95da14c873f239b7ba8e5594a3bdc63d149fee8c9ae65246b58669bf260ca29cd8e85dab1ee5aeac7ad0c32054d8ac1e1f3991dfb36099aab2a56b25694eeaf4fb96c10de97d6a9440b296b92f17880fd189dc59297ad38c4f72b9
+000000451c95da14c873f239b7ba8e5594a3bdc63d149fee8c9ae65246b58669bf260ca29cd8e85dab1ee5aeac7ad0c32054d8ac1e1f3991dfb36099aab2a56b25694eeaf4fb96c10de97d6a9440b296b92f17880fd189dc59297ad38c4f72b9
+^=agence&profession=eeeeeeee&admin=true&ttime=1705850224.795957
+^=agence&profession=eeeeeeee&admin=true&ttime=1705850224.795957
+You are not admin nor from syndicat !
+Network of SYNDICAT
+[>A] Name Yourself
+[>B] Give your token
+ > B
+B
+ > Token : 454545451c95da14c873f239b7ba8e5594a3bdc63d149fee8c9ae65246b58669bf260ca29cd8e85dab1ee5aeac7ad0c32054d8ac1e1f3991dfb36099aab2a56b25694eeaf4fb96c10de97d6a9440b296b92f17880fd189dc59297ad38c4f72b9
+454545451c95da14c873f239b7ba8e5594a3bdc63d149fee8c9ae65246b58669bf260ca29cd8e85dab1ee5aeac7ad0c32054d8ac1e1f3991dfb36099aab2a56b25694eeaf4fb96c10de97d6a9440b296b92f17880fd189dc59297ad38c4f72b9
+^g=agence&profession=eeeeeeee&admin=true&ttime=1705850224.795957
+^g=agence&profession=eeeeeeee&admin=true&ttime=1705850224.795957
+You are not admin nor from syndicat !
+Network of SYNDICAT
+[>A] Name Yourself
+[>B] Give your token
+ > B
+B
+ > Token : 454545561c95da14c873f239b7ba8e5594a3bdc63d149fee8c9ae65246b58669bf260ca29cd8e85dab1ee5aeac7ad0c32054d8ac1e1f3991dfb36099aab2a56b25694eeaf4fb96c10de97d6a9440b296b92f17880fd189dc59297ad38c4f72b9
+454545561c95da14c873f239b7ba8e5594a3bdc63d149fee8c9ae65246b58669bf260ca29cd8e85dab1ee5aeac7ad0c32054d8ac1e1f3991dfb36099aab2a56b25694eeaf4fb96c10de97d6a9440b296b92f17880fd189dc59297ad38c4f72b9
+^t=agence&profession=eeeeeeee&admin=true&ttime=1705850224.795957
+^t=agence&profession=eeeeeeee&admin=true&ttime=1705850224.795957
+You are not admin nor from syndicat !
+Network of SYNDICAT
+[>A] Name Yourself
+[>B] Give your token
+ > B
+B
+ > Token : 454515561c95da14c873f239b7ba8e5594a3bdc63d149fee8c9ae65246b58669bf260ca29cd8e85dab1ee5aeac7ad0c32054d8ac1e1f3991dfb36099aab2a56b25694eeaf4fb96c10de97d6a9440b296b92f17880fd189dc59297ad38c4f72b9
+454515561c95da14c873f239b7ba8e5594a3bdc63d149fee8c9ae65246b58669bf260ca29cd8e85dab1ee5aeac7ad0c32054d8ac1e1f3991dfb36099aab2a56b25694eeaf4fb96c10de97d6a9440b296b92f17880fd189dc59297ad38c4f72b9
+t=agence&profession=eeeeeeee&admin=true&ttime=1705850224.795957
+t=agence&profession=eeeeeeee&admin=true&ttime=1705850224.795957
+You are not admin nor from syndicat !
+Network of SYNDICAT
+[>A] Name Yourself
+[>B] Give your token
+ > B
+B
+ > Token : 1212e3561c95da14c873f239b7ba8e5594a3bdc63d149fee8c9ae65246b58669bf260ca29cd8e85dab1ee5aeac7ad0c32054d8ac1e1f3991dfb36099aab2a56b25694eeaf4fb96c10de97d6a9440b296b92f17880fd189dc59297ad38c4f72b9
+1212e3561c95da14c873f239b7ba8e5594a3bdc63d149fee8c9ae65246b58669bf260ca29cd8e85dab1ee5aeac7ad0c32054d8ac1e1f3991dfb36099aab2a56b25694eeaf4fb96c10de97d6a9440b296b92f17880fd189dc59297ad38c4f72b9
+'utf-8' codec can't decode byte 0xf8 in position 2: invalid start byte
+Error
+Network of SYNDICAT
+[>A] Name Yourself
+[>B] Give your token
+ > B
+B
+ > Token : 00e375561c95da14c873f239b7ba8e5594a3bdc63d149fee8c9ae65246b58669bf260ca29cd8e85dab1ee5aeac7ad0c32054d8ac1e1f3991dfb36099aab2a56b25694eeaf4fb96c10de97d6a9440b296b92f17880fd189dc59297ad38c4f72b9
+00e375561c95da14c873f239b7ba8e5594a3bdc63d149fee8c9ae65246b58669bf260ca29cd8e85dab1ee5aeac7ad0c32054d8ac1e1f3991dfb36099aab2a56b25694eeaf4fb96c10de97d6a9440b296b92f17880fd189dc59297ad38c4f72b9
+'utf-8' codec can't decode byte 0xf1 in position 1: invalid continuation byte
+Error
+Network of SYNDICAT
+[>A] Name Yourself
+[>B] Give your token
+ > B
+B
+ > Token : e37775561c95da14c873f239b7ba8e5594a3bdc63d149fee8c9ae65246b58669bf260ca29cd8e85dab1ee5aeac7ad0c32054d8ac1e1f3991dfb36099aab2a56b25694eeaf4fb96c10de97d6a9440b296b92f17880fd189dc59297ad38c4f72b9
+e37775561c95da14c873f239b7ba8e5594a3bdc63d149fee8c9ae65246b58669bf260ca29cd8e85dab1ee5aeac7ad0c32054d8ac1e1f3991dfb36099aab2a56b25694eeaf4fb96c10de97d6a9440b296b92f17880fd189dc59297ad38c4f72b9
+'utf-8' codec can't decode byte 0xbd in position 0: invalid start byte
+Error
+Network of SYNDICAT
+[>A] Name Yourself
+[>B] Give your token
+ > B
+B
+ > Token : 397775561c95da14c873f239b7ba8e5594a3bdc63d149fee8c9ae65246b58669bf260ca29cd8e85dab1ee5aeac7ad0c32054d8ac1e1f3991dfb36099aab2a56b25694eeaf4fb96c10de97d6a9440b296b92f17880fd189dc59297ad38c4f72b9
+397775561c95da14c873f239b7ba8e5594a3bdc63d149fee8c9ae65246b58669bf260ca29cd8e85dab1ee5aeac7ad0c32054d8ac1e1f3991dfb36099aab2a56b25694eeaf4fb96c10de97d6a9440b296b92f17880fd189dc59297ad38c4f72b9
+gent=agence&profession=eeeeeeee&admin=true&ttime=1705850224.795957
+gent=agence&profession=eeeeeeee&admin=true&ttime=1705850224.795957
+You are not admin nor from syndicat !
+Network of SYNDICAT
+[>A] Name Yourself
+[>B] Give your token
+ > B
+B
+ > Token : 00000000000000000000000000000000397775561c95da14c873f239b7ba8e5594a3bdc63d149fee8c9ae65246b58669bf260ca29cd8e85dab1ee5aeac7ad0c32054d8ac1e1f3991dfb36099aab2a56b25694eeaf4fb96c10de97d6a9440b296b92f17880fd189dc59297ad38c4f72b9
+00000000000000000000000000000000397775561c95da14c873f239b7ba8e5594a3bdc63d149fee8c9ae65246b58669bf260ca29cd8e85dab1ee5aeac7ad0c32054d8ac1e1f3991dfb36099aab2a56b25694eeaf4fb96c10de97d6a9440b296b92f17880fd189dc59297ad38c4f72b9
+'utf-8' codec can't decode byte 0x94 in position 3: invalid start byte
+Error
+Network of SYNDICAT
+[>A] Name Yourself
+[>B] Give your token
+ > B
+B
+ > Token : 000000e6000000000000000000000000397775561c95da14c873f239b7ba8e5594a3bdc63d149fee8c9ae65246b58669bf260ca29cd8e85dab1ee5aeac7ad0c32054d8ac1e1f3991dfb36099aab2a56b25694eeaf4fb96c10de97d6a9440b296b92f17880fd189dc59297ad38c4f72b9
+000000e6000000000000000000000000397775561c95da14c873f239b7ba8e5594a3bdc63d149fee8c9ae65246b58669bf260ca29cd8e85dab1ee5aeac7ad0c32054d8ac1e1f3991dfb36099aab2a56b25694eeaf4fb96c10de97d6a9440b296b92f17880fd189dc59297ad38c4f72b9
+'utf-8' codec can't decode byte 0xd3 in position 4: invalid continuation byte
+Error
+Network of SYNDICAT
+[>A] Name Yourself
+[>B] Give your token
+ > B
+B
+ > Token : 000000e6bd0000000000000000000000397775561c95da14c873f239b7ba8e5594a3bdc63d149fee8c9ae65246b58669bf260ca29cd8e85dab1ee5aeac7ad0c32054d8ac1e1f3991dfb36099aab2a56b25694eeaf4fb96c10de97d6a9440b296b92f17880fd189dc59297ad38c4f72b9
+000000e6bd0000000000000000000000397775561c95da14c873f239b7ba8e5594a3bdc63d149fee8c9ae65246b58669bf260ca29cd8e85dab1ee5aeac7ad0c32054d8ac1e1f3991dfb36099aab2a56b25694eeaf4fb96c10de97d6a9440b296b92f17880fd189dc59297ad38c4f72b9
+'utf-8' codec can't decode byte 0xc1 in position 5: invalid start byte
+Error
+Network of SYNDICAT
+[>A] Name Yourself
+[>B] Give your token
+ > B
+B
+ > Token : 000000e6bda000000000000000000000397775561c95da14c873f239b7ba8e5594a3bdc63d149fee8c9ae65246b58669bf260ca29cd8e85dab1ee5aeac7ad0c32054d8ac1e1f3991dfb36099aab2a56b25694eeaf4fb96c10de97d6a9440b296b92f17880fd189dc59297ad38c4f72b9
+000000e6bda000000000000000000000397775561c95da14c873f239b7ba8e5594a3bdc63d149fee8c9ae65246b58669bf260ca29cd8e85dab1ee5aeac7ad0c32054d8ac1e1f3991dfb36099aab2a56b25694eeaf4fb96c10de97d6a9440b296b92f17880fd189dc59297ad38c4f72b9
+'utf-8' codec can't decode byte 0x9b in position 12: invalid start byte
+Error
+Network of SYNDICAT
+[>A] Name Yourself
+[>B] Give your token
+ > B
+B
+ > Token : 000000e6bda0000000000000f2000000397775561c95da14c873f239b7ba8e5594a3bdc63d149fee8c9ae65246b58669bf260ca29cd8e85dab1ee5aeac7ad0c32054d8ac1e1f3991dfb36099aab2a56b25694eeaf4fb96c10de97d6a9440b296b92f17880fd189dc59297ad38c4f72b9
+000000e6bda0000000000000f2000000397775561c95da14c873f239b7ba8e5594a3bdc63d149fee8c9ae65246b58669bf260ca29cd8e85dab1ee5aeac7ad0c32054d8ac1e1f3991dfb36099aab2a56b25694eeaf4fb96c10de97d6a9440b296b92f17880fd189dc59297ad38c4f72b9
+Ernaz?CIɁix1▒gent=agence&profession=eeeeeeee&admin=true&ttime=1705850224.795957
+Ernaz?CIɁix1▒gent=agence&profession=eeeeeeee&admin=true&ttime=1705850224.795957
+You are not admin nor from syndicat !
+Network of SYNDICAT
+[>A] Name Yourself
+[>B] Give your token
+ > B
+B
+ > Token : 000000e6bda0000000000000f20000e3397775561c95da14c873f239b7ba8e5594a3bdc63d149fee8c9ae65246b58669bf260ca29cd8e85dab1ee5aeac7ad0c32054d8ac1e1f3991dfb36099aab2a56b25694eeaf4fb96c10de97d6a9440b296b92f17880fd189dc59297ad38c4f72b9
+000000e6bda0000000000000f20000e3397775561c95da14c873f239b7ba8e5594a3bdc63d149fee8c9ae65246b58669bf260ca29cd8e85dab1ee5aeac7ad0c32054d8ac1e1f3991dfb36099aab2a56b25694eeaf4fb96c10de97d6a9440b296b92f17880fd189dc59297ad38c4f72b9
+'utf-8' codec can't decode byte 0xfb in position 15: invalid start byte
+Error
+Network of SYNDICAT
+[>A] Name Yourself
+[>B] Give your token
+ > B
+B
+ > Token : 000000e6bda0000000000000f200009a397775561c95da14c873f239b7ba8e5594a3bdc63d149fee8c9ae65246b58669bf260ca29cd8e85dab1ee5aeac7ad0c32054d8ac1e1f3991dfb36099aab2a56b25694eeaf4fb96c10de97d6a9440b296b92f17880fd189dc59297ad38c4f72b9
+000000e6bda0000000000000f200009a397775561c95da14c873f239b7ba8e5594a3bdc63d149fee8c9ae65246b58669bf260ca29cd8e85dab1ee5aeac7ad0c32054d8ac1e1f3991dfb36099aab2a56b25694eeaf4fb96c10de97d6a9440b296b92f17880fd189dc59297ad38c4f72b9
+'utf-8' codec can't decode byte 0x82 in position 15: invalid start byte
+Error
+Network of SYNDICAT
+[>A] Name Yourself
+[>B] Give your token
+ > B
+B
+ > Token : 000000e6bda0000000000000f2000079397775561c95da14c873f239b7ba8e5594a3bdc63d149fee8c9ae65246b58669bf260ca29cd8e85dab1ee5aeac7ad0c32054d8ac1e1f3991dfb36099aab2a56b25694eeaf4fb96c10de97d6a9440b296b92f17880fd189dc59297ad38c4f72b9
+000000e6bda0000000000000f2000079397775561c95da14c873f239b7ba8e5594a3bdc63d149fee8c9ae65246b58669bf260ca29cd8e85dab1ee5aeac7ad0c32054d8ac1e1f3991dfb36099aab2a56b25694eeaf4fb96c10de97d6a9440b296b92f17880fd189dc59297ad38c4f72b9
+Ernaz?CIɁix1agent=agence&profession=eeeeeeee&admin=true&ttime=1705850224.795957
+Ernaz?CIɁix1agent=agence&profession=eeeeeeee&admin=true&ttime=1705850224.795957
+You are not admin nor from syndicat !
+Network of SYNDICAT
+[>A] Name Yourself
+[>B] Give your token
+ > B
+B
+ > Token : 000000e6bda0000000000000f2001779397775561c95da14c873f239b7ba8e5594a3bdc63d149fee8c9ae65246b58669bf260ca29cd8e85dab1ee5aeac7ad0c32054d8ac1e1f3991dfb36099aab2a56b25694eeaf4fb96c10de97d6a9440b296b92f17880fd189dc59297ad38c4f72b9
+000000e6bda0000000000000f2001779397775561c95da14c873f239b7ba8e5594a3bdc63d149fee8c9ae65246b58669bf260ca29cd8e85dab1ee5aeac7ad0c32054d8ac1e1f3991dfb36099aab2a56b25694eeaf4fb96c10de97d6a9440b296b92f17880fd189dc59297ad38c4f72b9
+Ernaz?CIɁix&agent=agence&profession=eeeeeeee&admin=true&ttime=1705850224.795957
+Ernaz?CIɁix&agent=agence&profession=eeeeeeee&admin=true&ttime=1705850224.795957
+You are not admin nor from syndicat !
+Network of SYNDICAT
+[>A] Name Yourself
+[>B] Give your token
+ > B
+B
+ > Token : 000000e6bda0000000000000f2161779397775561c95da14c873f239b7ba8e5594a3bdc63d149fee8c9ae65246b58669bf260ca29cd8e85dab1ee5aeac7ad0c32054d8ac1e1f3991dfb36099aab2a56b25694eeaf4fb96c10de97d6a9440b296b92f17880fd189dc59297ad38c4f72b9
+000000e6bda0000000000000f2161779397775561c95da14c873f239b7ba8e5594a3bdc63d149fee8c9ae65246b58669bf260ca29cd8e85dab1ee5aeac7ad0c32054d8ac1e1f3991dfb36099aab2a56b25694eeaf4fb96c10de97d6a9440b296b92f17880fd189dc59297ad38c4f72b9
+Ernaz?CIɁin&agent=agence&profession=eeeeeeee&admin=true&ttime=1705850224.795957
+Ernaz?CIɁin&agent=agence&profession=eeeeeeee&admin=true&ttime=1705850224.795957
+You are not admin nor from syndicat !
+Network of SYNDICAT
+[>A] Name Yourself
+[>B] Give your token
+ > B
+B
+ > Token : 000000e6bda000000000adecf2161779397775561c95da14c873f239b7ba8e5594a3bdc63d149fee8c9ae65246b58669bf260ca29cd8e85dab1ee5aeac7ad0c32054d8ac1e1f3991dfb36099aab2a56b25694eeaf4fb96c10de97d6a9440b296b92f17880fd189dc59297ad38c4f72b9
+000000e6bda000000000adecf2161779397775561c95da14c873f239b7ba8e5594a3bdc63d149fee8c9ae65246b58669bf260ca29cd8e85dab1ee5aeac7ad0c32054d8ac1e1f3991dfb36099aab2a56b25694eeaf4fb96c10de97d6a9440b296b92f17880fd189dc59297ad38c4f72b9
+Ernaz?CIdmin&agent=agence&profession=eeeeeeee&admin=true&ttime=1705850224.795957
+Ernaz?CIdmin&agent=agence&profession=eeeeeeee&admin=true&ttime=1705850224.795957
+You are not admin nor from syndicat !
+Network of SYNDICAT
+[>A] Name Yourself
+[>B] Give your token
+ > B
+B
+ > Token : 000000e6bda000000028adecf2161779397775561c95da14c873f239b7ba8e5594a3bdc63d149fee8c9ae65246b58669bf260ca29cd8e85dab1ee5aeac7ad0c32054d8ac1e1f3991dfb36099aab2a56b25694eeaf4fb96c10de97d6a9440b296b92f17880fd189dc59297ad38c4f72b9
+000000e6bda000000028adecf2161779397775561c95da14c873f239b7ba8e5594a3bdc63d149fee8c9ae65246b58669bf260ca29cd8e85dab1ee5aeac7ad0c32054d8ac1e1f3991dfb36099aab2a56b25694eeaf4fb96c10de97d6a9440b296b92f17880fd189dc59297ad38c4f72b9
+Ernaz?Cadmin&agent=agence&profession=eeeeeeee&admin=true&ttime=1705850224.795957
+Ernaz?Cadmin&agent=agence&profession=eeeeeeee&admin=true&ttime=1705850224.795957
+You are not admin nor from syndicat !
+Network of SYNDICAT
+[>A] Name Yourself
+[>B] Give your token
+ > B
+B
+ > Token : 000000e6bda000007e28adecf2161779397775561c95da14c873f239b7ba8e5594a3bdc63d149fee8c9ae65246b58669bf260ca29cd8e85dab1ee5aeac7ad0c32054d8ac1e1f3991dfb36099aab2a56b25694eeaf4fb96c10de97d6a9440b296b92f17880fd189dc59297ad38c4f72b9
+000000e6bda000007e28adecf2161779397775561c95da14c873f239b7ba8e5594a3bdc63d149fee8c9ae65246b58669bf260ca29cd8e85dab1ee5aeac7ad0c32054d8ac1e1f3991dfb36099aab2a56b25694eeaf4fb96c10de97d6a9440b296b92f17880fd189dc59297ad38c4f72b9
+Ernaz?=admin&agent=agence&profession=eeeeeeee&admin=true&ttime=1705850224.795957
+Ernaz?=admin&agent=agence&profession=eeeeeeee&admin=true&ttime=1705850224.795957
+You are not admin nor from syndicat !
+Network of SYNDICAT
+[>A] Name Yourself
+[>B] Give your token
+ > B
+B
+ > Token : 000000e6bda0005a7e28adecf2161779397775561c95da14c873f239b7ba8e5594a3bdc63d149fee8c9ae65246b58669bf260ca29cd8e85dab1ee5aeac7ad0c32054d8ac1e1f3991dfb36099aab2a56b25694eeaf4fb96c10de97d6a9440b296b92f17880fd189dc59297ad38c4f72b9
+000000e6bda0005a7e28adecf2161779397775561c95da14c873f239b7ba8e5594a3bdc63d149fee8c9ae65246b58669bf260ca29cd8e85dab1ee5aeac7ad0c32054d8ac1e1f3991dfb36099aab2a56b25694eeaf4fb96c10de97d6a9440b296b92f17880fd189dc59297ad38c4f72b9
+Ernaze=admin&agent=agence&profession=eeeeeeee&admin=true&ttime=1705850224.795957
+Ernaze=admin&agent=agence&profession=eeeeeeee&admin=true&ttime=1705850224.795957
+You are not admin nor from syndicat !
+Network of SYNDICAT
+[>A] Name Yourself
+[>B] Give your token
+ > B
+B
+ > Token : 000000e6bda0175a7e28adecf2161779397775561c95da14c873f239b7ba8e5594a3bdc63d149fee8c9ae65246b58669bf260ca29cd8e85dab1ee5aeac7ad0c32054d8ac1e1f3991dfb36099aab2a56b25694eeaf4fb96c10de97d6a9440b296b92f17880fd189dc59297ad38c4f72b9
+000000e6bda0175a7e28adecf2161779397775561c95da14c873f239b7ba8e5594a3bdc63d149fee8c9ae65246b58669bf260ca29cd8e85dab1ee5aeac7ad0c32054d8ac1e1f3991dfb36099aab2a56b25694eeaf4fb96c10de97d6a9440b296b92f17880fd189dc59297ad38c4f72b9
+Ername=admin&agent=agence&profession=eeeeeeee&admin=true&ttime=1705850224.795957
+Ername=admin&agent=agence&profession=eeeeeeee&admin=true&ttime=1705850224.795957
+You are not admin nor from syndicat !
+Network of SYNDICAT
+[>A] Name Yourself
+[>B] Give your token
+ > B
+B
+ > Token : 00e3e3e6bda0175a7e28adecf2161779397775561c95da14c873f239b7ba8e5594a3bdc63d149fee8c9ae65246b58669bf260ca29cd8e85dab1ee5aeac7ad0c32054d8ac1e1f3991dfb36099aab2a56b25694eeaf4fb96c10de97d6a9440b296b92f17880fd189dc59297ad38c4f72b9
+00e3e3e6bda0175a7e28adecf2161779397775561c95da14c873f239b7ba8e5594a3bdc63d149fee8c9ae65246b58669bf260ca29cd8e85dab1ee5aeac7ad0c32054d8ac1e1f3991dfb36099aab2a56b25694eeaf4fb96c10de97d6a9440b296b92f17880fd189dc59297ad38c4f72b9
+'utf-8' codec can't decode byte 0xa6 in position 1: invalid start byte
+Error
+Network of SYNDICAT
+[>A] Name Yourself
+[>B] Give your token
+ > B
+B
+ > Token : 003615e6bda0175a7e28adecf2161779397775561c95da14c873f239b7ba8e5594a3bdc63d149fee8c9ae65246b58669bf260ca29cd8e85dab1ee5aeac7ad0c32054d8ac1e1f3991dfb36099aab2a56b25694eeaf4fb96c10de97d6a9440b296b92f17880fd189dc59297ad38c4f72b9
+003615e6bda0175a7e28adecf2161779397775561c95da14c873f239b7ba8e5594a3bdc63d149fee8c9ae65246b58669bf260ca29cd8e85dab1ee5aeac7ad0c32054d8ac1e1f3991dfb36099aab2a56b25694eeaf4fb96c10de97d6a9440b296b92f17880fd189dc59297ad38c4f72b9
+srname=admin&agent=agence&profession=eeeeeeee&admin=true&ttime=1705850224.795957
+srname=admin&agent=agence&profession=eeeeeeee&admin=true&ttime=1705850224.795957
+You are not admin nor from syndicat !
+Network of SYNDICAT
+[>A] Name Yourself
+[>B] Give your token
+ > B   
+B
+ > Token : 0036e3e6bda0175a7e28adecf2161779397775561c95da14c873f239b7ba8e5594a3bdc63d149fee8c9ae65246b58669bf260ca29cd8e85dab1ee5aeac7ad0c32054d8ac1e1f3991dfb36099aab2a56b25694eeaf4fb96c10de97d6a9440b296b92f17880fd189dc59297ad38c4f72b9
+0036e3e6bda0175a7e28adecf2161779397775561c95da14c873f239b7ba8e5594a3bdc63d149fee8c9ae65246b58669bf260ca29cd8e85dab1ee5aeac7ad0c32054d8ac1e1f3991dfb36099aab2a56b25694eeaf4fb96c10de97d6a9440b296b92f17880fd189dc59297ad38c4f72b9
+'utf-8' codec can't decode byte 0xf2 in position 2: invalid continuation byte
+Error
+Network of SYNDICAT
+[>A] Name Yourself
+[>B] Give your token
+ > B
+B
+ > Token : e33674e6bda0175a7e28adecf2161779397775561c95da14c873f239b7ba8e5594a3bdc63d149fee8c9ae65246b58669bf260ca29cd8e85dab1ee5aeac7ad0c32054d8ac1e1f3991dfb36099aab2a56b25694eeaf4fb96c10de97d6a9440b296b92f17880fd189dc59297ad38c4f72b9
+e33674e6bda0175a7e28adecf2161779397775561c95da14c873f239b7ba8e5594a3bdc63d149fee8c9ae65246b58669bf260ca29cd8e85dab1ee5aeac7ad0c32054d8ac1e1f3991dfb36099aab2a56b25694eeaf4fb96c10de97d6a9440b296b92f17880fd189dc59297ad38c4f72b9
+'utf-8' codec can't decode byte 0xf2 in position 0: invalid continuation byte
+Error
+Network of SYNDICAT
+[>A] Name Yourself
+[>B] Give your token
+ > B
+B
+ > Token : 643674e6bda0175a7e28adecf2161779397775561c95da14c873f239b7ba8e5594a3bdc63d149fee8c9ae65246b58669bf260ca29cd8e85dab1ee5aeac7ad0c32054d8ac1e1f3991dfb36099aab2a56b25694eeaf4fb96c10de97d6a9440b296b92f17880fd189dc59297ad38c4f72b9
+643674e6bda0175a7e28adecf2161779397775561c95da14c873f239b7ba8e5594a3bdc63d149fee8c9ae65246b58669bf260ca29cd8e85dab1ee5aeac7ad0c32054d8ac1e1f3991dfb36099aab2a56b25694eeaf4fb96c10de97d6a9440b296b92f17880fd189dc59297ad38c4f72b9
+username=admin&agent=agence&profession=eeeeeeee&admin=true&ttime=1705850224.795957
+username=admin&agent=agence&profession=eeeeeeee&admin=true&ttime=1705850224.795957
+You are not admin nor from syndicat !
+Network of SYNDICAT
+[>A] Name Yourself
+[>B] Give your token
+ >          

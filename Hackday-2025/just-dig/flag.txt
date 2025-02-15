@@ -1,0 +1,34 @@
+ebx : SEFD S0RB 
+eax : WXtp X0xv blRv bX0= \x00\x00\x00\x00
+ecx : dkVB OV8x
+edx : RGlH ZyFO XzRz 
+
+
+WXtp 
+What
+
+ebx : SEFD S0RB 
+eax :           WXtp X0xv                           blRv bX0= \x00\x00\x00\x00
+ecx :                     dkVB           OV8x
+edx :                          RGlH ZyFO        XzRz 
+
+eax : WXtpX0xvblRvbX0=
+ebx : SEFDS0RB 
+ecx : dkVBOV8x
+edx : RGlHZyFOXzRz 
+
+
+
+SEFDS0RBWXtpX0xvdkVBRGlHZyFOOV8xXzRzblRvbX0= \x00\x00\x00\x00
+SEFDS0RBWXtpX0xvdkVfRGlHZyFOOV8xblRvXzRzbX0=
+
+En gros j'obtiens ça à à chaque branchement auc= cours de l'eéxcution :
+
+ebx : SEFD S0RB 
+eax :           WXtp X0xv                      blRv     bX0= \x00\x00\x00\x00
+ecx :                     dkVf           OV8x
+edx :                          RGlH ZyFO            XzRz 
+
+
+
+44464553 42523053 70745857 76783058 66566B64 486C4752 4F46795A 7838564F 76526C62 7A527A58 3D305862
