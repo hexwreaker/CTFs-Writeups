@@ -1,6 +1,12 @@
 
 # CTF Writeups
 
+# EC2 2025
+
+- [Reverse : Dungeon : part 1](./EC2-2025/dungeon-part-1)
+- [Pwn : Sliding in the 90s](./EC2-2025/Sliding-in-the-90s/)
+- [Pwn : Insecure shell](./EC2-2025/Insecure_shell/)
+
 # 404CTF
 
 - [Reverse : échauffement](./404CTF-2024/reverse/echauffement/)
