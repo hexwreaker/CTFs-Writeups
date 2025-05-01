@@ -18,7 +18,7 @@
 - [Crypto : Cocorico](./FCSC-2025/crypto/cocorico/)
 - [Crypto : La quête de l'anneau](./FCSC-2025/crypto/la_quete_de_anneau/)
 
-# EC2 2025
+# EC2 2025 (équipe Sorbonne - top 8)
 
 - [Reverse : Dungeon : part 1](./EC2-2025/dungeon-part-1)
 - [Pwn : Sliding in the 90s](./EC2-2025/Sliding-in-the-90s/)
