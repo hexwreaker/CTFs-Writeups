@@ -1,0 +1,5 @@
+FCSC{iPhone12,3|20A362}
+FCSC{FCSC|66:20:95:6c:9b:37|robertswigert@icloud.com}
+FCSC{org.whispersystems.signal|344}
+FCSC{seashell|TCP|98.66.154.235|29552}
+
